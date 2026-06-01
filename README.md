@@ -1,6 +1,6 @@
 <h1 align="center">DCGAN implementation for face generation using the CelebA Dataset (PyTorch)</h1>
 <h2>Overview</h2>
-This repository contains the practical implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) developed for my Bachelor's Thesis in Mathematics, titled “Generative Adversarial Networks (GAN): Mathematical Foundations and Applications”
+This repository contains the practical implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) developed for my Bachelor's Thesis in Mathematics, titled “Generative Adversarial Networks (GANs): Mathematical Foundations and Applications”.
 
 The project follows the architecture proposed by [1] and is based on the official PyTorch DCGAN tutorial [2].
 <h2>Dataset</h2>
